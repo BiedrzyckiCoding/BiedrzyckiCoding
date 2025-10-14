@@ -6,17 +6,17 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ## 🔭 Work & Internship Experience
 
-**Data Science Intern** – Ringier Axel Springer Polska  
+**Data Science Intern** - Ringier Axel Springer Polska  
 - Delivered projects automating **ML model training pipelines** predicting article revenue and conversion rates.  
 - Improved model accuracy, increasing **mobile conversions by 12%** and **desktop by 4%**.  
 - Worked with **Amazon SageMaker**, **Athena SQL**, **S3**, **AutoGluon (Python)**, **Airflow**, and **Docker** in a remote development environment.
 
-**Full Stack Developer** – Novacargo  
+**Full Stack Developer** - Novacargo  
 - Collaborated directly with the CEO to ensure strict deadlines and smooth project delivery.  
 - Developed a web application optimizing communication between clients and freight forwarding agents, improving package ordering efficiency.  
 - **Technologies:** PHP, JavaScript, Three.js, HTML, CSS, Linux, Docker, Git.
 
-**Back-end Developer** – Game Item Shop Startup  
+**Back-end Developer** - Game Item Shop Startup  
 - Implemented a system to manage hundreds of game accounts for currency farming.  
 - **Technologies:** Python, Linux, Git.
 
@@ -35,9 +35,9 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ## 🚀 Entrepreneurship Experience
 
-- **School textbook resale** – built client database and successfully managed operations.  
-- **Gardening services** – led a two-person team delivering services to the local community.  
-- **Furniture flipping** – sourced and sold high-value items online.
+- **School textbook resale** - built client database and successfully managed operations.  
+- **Gardening services** - led a two-person team delivering services to the local community.  
+- **Furniture flipping** - sourced and sold high-value items online.
 
 ---
 
