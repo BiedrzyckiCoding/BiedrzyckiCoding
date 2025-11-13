@@ -1,10 +1,10 @@
-# Hi, I'm Jakub 👋
+# Hi, I'm Jakub 
 
 I'm a Computer Science student with experience in **full-stack development**, **quantitative analysis**, and **AI-driven business solutions**. I have contributed to several startups and entrepreneurial projects, bringing a practical approach to problem-solving and a strong interest in finance, data analytics, and high-impact software solutions.
 
 ---
 
-## 🔭 Work & Internship Experience
+## Work & Internship Experience
 
 **Data Science Intern** - Ringier Axel Springer Polska  
 - Delivered projects automating **ML model training pipelines** predicting article revenue and conversion rates.  
@@ -22,7 +22,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 💻 Personal & Hobby Projects
+## Personal & Hobby Projects
 
 **[Market Trading Strategies](https://github.com/BiedrzyckiCoding/market-trading-strategies)**  
 - Developed and analyzed quantitative trading strategies using **statistical modeling** and **time-series analysis**.  
@@ -33,7 +33,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 🚀 Entrepreneurship Experience
+## Entrepreneurship Experience
 
 - **School textbook resale** - built client database and successfully managed operations.  
 - **Gardening services** - led a two-person team delivering services to the local community.  
@@ -41,7 +41,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 🌟 Extracurricular Activities
+## Extracurricular Activities
 
 **YNG Chapter Leader (YPO Next Generation)**  
 - Organizes professional events with high-performing individuals.  
@@ -52,7 +52,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Programming & Tools:** Java, C++, Python, SQL, PHP, JavaScript, HTML/CSS, Three.js, Linux, Docker, Git, Airflow, SageMaker, AutoGluon  
 **Data & Analysis:** Quantitative Analysis, Statistical Modeling, Time-Series Analysis, ML Pipelines, Data Visualization  
@@ -60,7 +60,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 🌎 Languages
+## Languages
 
 - Polish (Native)  
 - English (Fluent, C1)  
