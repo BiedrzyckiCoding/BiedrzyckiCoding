@@ -68,7 +68,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## 🎯 Interests
+## Interests
 
 Sailing, skiing, tennis, bodybuilding, theater, business literature, politics, real estate, investing, cryptocurrencies  
 
