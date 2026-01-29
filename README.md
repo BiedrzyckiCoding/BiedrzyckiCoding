@@ -8,7 +8,7 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 **Data Science Intern** - Ringier Axel Springer Polska  
 - Delivered projects automating **ML model training pipelines** predicting article revenue and conversion rates.  
-- Improved model accuracy, increasing **mobile conversions by 12%** and **desktop by 4%**.  
+- Improved model accuracy, increasing conversions
 - Worked with **Amazon SageMaker**, **Athena SQL**, **S3**, **AutoGluon (Python)**, **Airflow**, and **Docker** in a remote development environment.
 
 **Full Stack Developer** - Novacargo  
