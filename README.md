@@ -1,6 +1,6 @@
 # Hi, I'm Jakub
 
-AI/ML engineer building automated data pipelines, and founder of a client-side SEO utility platform.
+AI/ML engineer building automated data pipelines, and founder of a client-side SEO utility platform. [Full write-up →](https://biedrzyckicoding.github.io/BiedrzyckiCoding/)
 
 ---
 
