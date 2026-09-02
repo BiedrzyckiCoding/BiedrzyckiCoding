@@ -26,7 +26,7 @@ An automated news briefing product built as four services chained on a GitHub Ac
 - A Flask + Supabase site handles the public front end, Stripe billing, and rate-limited routes.
 
 **CTO - Picxelit**
-Responsible for the technical side of the startup.
+A custom brick-mosaic kit business: customers turn a photo into a physical LEGO-style kit they build by hand. Built the funnel end to end, from client-side photo pixelization through Stripe checkout, and learned to keep two live frontends (a static production build and a Python dev server) honestly in sync.
 
 ---
 
