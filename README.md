@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 
 
-I'm a Computer Science student with experience in **full-stack development**, **quantitative analysis**, and **AI-driven business solutions**. I have contributed to several startups and entrepreneurial projects, bringing a practical approach to problem-solving and a strong interest in finance, data analytics, and high-impact software solutions.
+come up with something cool
 
 ---
 
@@ -11,33 +11,35 @@ I'm a Computer Science student with experience in **full-stack development**, **
 - Improved model accuracy, increasing conversions
 - Worked with **Amazon SageMaker**, **Athena SQL**, **S3**, **AutoGluon (Python)**, **Airflow**, and **Docker** in a remote development environment.
 
-**Full Stack Developer** - Novacargo  
-- Collaborated directly with the CEO to ensure strict deadlines and smooth project delivery.  
-- Developed a web application optimizing communication between clients and freight forwarding agents, improving package ordering efficiency.  
-- **Technologies:** PHP, JavaScript, Three.js, HTML, CSS, Linux, Docker, Git.
+daybreak-brief.com
+read the relevant info:
+1. github actions
+2. srapping
+3. supabase, stripe, integration
 
-**Back-end Developer** - Game Item Shop Startup  
-- Implemented a system to manage hundreds of game accounts for currency farming.  
-- **Technologies:** Python, Linux, Git.
+bentoutils.com
+1. agentic work and claude routines
+2. seo work
+3. claudflare work, monitoring, etc.
+
+picxelit.pl
+1. CTO - responsible for the technical part of the startup
 
 ---
 
 ## Personal & Hobby Projects
 
-**[Market Trading Strategies](https://github.com/BiedrzyckiCoding/market-trading-strategies)**  
-- Developed and analyzed quantitative trading strategies using **statistical modeling** and **time-series analysis**.  
-- Implemented **Python-based backtesting, data visualization**, and **risk-return analysis** to validate and optimize strategies.  
+https://github.com/BiedrzyckiCoding/convolutional-neural-network
 
-**[TCP-Tmux-Setup-Communication](https://github.com/BiedrzyckiCoding/TCP-Tmux-Setup-Communication)**  
-- Created a Discord bot in Python to interact with a Linux-based VPS for remote management and communication.
+https://github.com/BiedrzyckiCoding/ball_tracker
 
+https://github.com/BiedrzyckiCoding/numpy-mlp-from-scratch
+
+https://github.com/BiedrzyckiCoding/multiclass-classification
+
+
+(on each expand a bit more)
 ---
-
-## Entrepreneurship Experience
-
-- **School textbook resale** - built client database and successfully managed operations.  
-- **Gardening services** - led a two-person team delivering services to the local community.  
-- **Furniture flipping** - sourced and sold high-value items online.
 
 ---
 
@@ -52,11 +54,13 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ---
 
-## Skills
+## Socials:
 
-**Programming & Tools:** Java, C++, Python, SQL, PHP, JavaScript, HTML/CSS, Three.js, Linux, Docker, Git, Airflow, SageMaker, AutoGluon  
-**Data & Analysis:** Quantitative Analysis, Statistical Modeling, Time-Series Analysis, ML Pipelines, Data Visualization  
-**Soft Skills:** Client acquisition, leadership, communication, teamwork  
+[github.com/BiedrzyckiCoding](https://github.com/BiedrzyckiCoding)
+
+[x ](https://x.com/jakubbied)
+
+add nice icons here
 
 ---
 
@@ -70,8 +74,4 @@ I'm a Computer Science student with experience in **full-stack development**, **
 
 ## Interests
 
-Sailing, skiing, tennis, bodybuilding, theater, business literature, politics, real estate, investing, cryptocurrencies  
-
----
-
-**GitHub:** [github.com/BiedrzyckiCoding](https://github.com/BiedrzyckiCoding)
+Ai (expand in more tech wording based on daybreak-brief and bentoutils), SEO (based on bentoutils.com)
