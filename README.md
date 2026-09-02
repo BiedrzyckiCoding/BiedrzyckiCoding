@@ -12,13 +12,17 @@ AI/ML engineer building automated data pipelines, and founder of a client-side S
 - Worked with Amazon SageMaker, Athena SQL, S3, AutoGluon (Python), Airflow, and Docker in a remote development environment.
 
 **Founder - [BentoUtils](https://bentoutils.com)**
-A libre utility platform: 230+ browser tools that run entirely client-side, no uploads, no tracking. Built the site's SEO system, from structured data to the internal-linking graph between tools, and learned it holds up better as generated, checked infrastructure than as hand-edited pages.
+- Built and run a libre utility platform: 230+ browser tools that run entirely client-side, no uploads, no tracking.
+- Built the site's SEO system, from structured data to the internal-linking graph between tools.
+- Learned SEO holds up better as generated, checked infrastructure than as hand-edited pages.
 
 **Technical Lead - [Daybreak Brief](https://daybreak-brief.com)**
-An automated news briefing product. Built the pipeline that scrapes, dedupes, clusters, and scores each day's news before an LLM writes the summary and sends it. Learned that most of a pipeline's quality comes from the scoring and dedup logic upstream, not from the LLM step everyone assumes matters most.
+- Built an automated news briefing pipeline that scrapes, dedupes, clusters, and scores each day's news before an LLM writes and sends the summary.
+- Learned that most of a pipeline's quality comes from the scoring and dedup logic upstream, not from the LLM step everyone assumes matters most.
 
 **CTO - Picxelit**
-A custom brick-mosaic kit business: customers turn a photo into a physical LEGO-style kit they build by hand. Built the funnel end to end, from client-side photo pixelization through Stripe checkout, and learned to keep two live frontends (a static production build and a Python dev server) honestly in sync.
+- Built a custom brick-mosaic kit funnel end to end: customers turn a photo into a physical LEGO-style kit they build by hand.
+- Learned to keep two live frontends (a static production build and a Python dev server) honestly in sync.
 
 ---
 
@@ -48,8 +52,8 @@ An OpenCV computer vision project that isolates a red ball by HSV color threshol
 
 ## Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-BiedrzyckiCoding-181717?style=flat&logo=github&logoColor=white)](https://github.com/BiedrzyckiCoding)
-[![X](https://img.shields.io/badge/X-@jakubbied-000000?style=flat&logo=x&logoColor=white)](https://x.com/jakubbied)
+[![GitHub](https://img.shields.io/badge/GitHub-BiedrzyckiCoding-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiedrzyckiCoding)
+[![X](https://img.shields.io/badge/X-@jakubbied-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jakubbied)
 
 ---
 
