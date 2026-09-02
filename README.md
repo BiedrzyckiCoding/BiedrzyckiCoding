@@ -12,18 +12,10 @@ AI/ML engineer building automated data pipelines, and founder of a client-side S
 - Worked with Amazon SageMaker, Athena SQL, S3, AutoGluon (Python), Airflow, and Docker in a remote development environment.
 
 **Founder - [BentoUtils](https://bentoutils.com)**
-A libre utility app platform: 230+ browser tools (calculators, converters, generators) that run entirely client-side, no uploads, no tracking. Deployed as a Cloudflare Worker PWA in vanilla JS, no framework, no build step.
-- Built the SEO system end to end: static content-depth sections on every tool, FAQPage/BreadcrumbList/SoftwareApplication schema, a generated internal-linking graph across the whole site, and an `llms.txt` index tuned for AI-citation crawlers like GPTBot and ClaudeBot.
-- Runs on Claude Code routines that generate and check that SEO surface automatically (related-tools linking, sitemap drift, blog indexing) so it stays in sync as new tools ship.
-- Handles billing and auth through Stripe checkout, Resend magic links, and Cloudflare KV-backed license tokens, monitored with Cloudflare Web Analytics.
+A libre utility platform: 230+ browser tools that run entirely client-side, no uploads, no tracking. Built the site's SEO system, from structured data to the internal-linking graph between tools, and learned it holds up better as generated, checked infrastructure than as hand-edited pages.
 
 **Technical Lead - [Daybreak Brief](https://daybreak-brief.com)**
-An automated news briefing product built as four services chained on a GitHub Actions schedule, backed by Supabase:
-- `get-articles` pulls tracked topics and domains from Supabase, then queries the GDELT news index for that day's coverage.
-- `scrape-and-clean` fetches and cleans the full article text behind each result.
-- `score-articles` embeds every article (MiniLM, 384-dim), drops near-duplicates by cosine similarity, clusters by topic with DBSCAN, and scores each one on topic importance and cluster centrality.
-- `summarise-and-send` deduplicates the day's scored set, summarises it with an LLM, and sends the newsletter.
-- A Flask + Supabase site handles the public front end, Stripe billing, and rate-limited routes.
+An automated news briefing product. Built the pipeline that scrapes, dedupes, clusters, and scores each day's news before an LLM writes the summary and sends it. Learned that most of a pipeline's quality comes from the scoring and dedup logic upstream, not from the LLM step everyone assumes matters most.
 
 **CTO - Picxelit**
 A custom brick-mosaic kit business: customers turn a photo into a physical LEGO-style kit they build by hand. Built the funnel end to end, from client-side photo pixelization through Stripe checkout, and learned to keep two live frontends (a static production build and a Python dev server) honestly in sync.
